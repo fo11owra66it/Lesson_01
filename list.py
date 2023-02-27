@@ -10,3 +10,5 @@ print(number_list[2:4])
 
 number_list.remove('Python')
 print(number_list)
+number_list.remove([-1])
+print(number_list)
